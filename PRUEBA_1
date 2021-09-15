@@ -1,8 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://unsoloclic.info/wp-content/uploads/2020/05/MV5BNjJkNzdkNjItNmVmZi00MzkzLTg0MTUtZjYzZDhmNzNlMTY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006661000_AL_1-e1588974133459.jpg" group-title="SERIES",SERIES 2020
-http://tv.lklix.com:8080/PILAS/PilaS/44726
-
-#EXTINF:-1 tvg-id="" tvg-name="Necesito romance S01 E11" tvg-logo="http://tv.lklix.com:8080/images/9acb716d9a4db8714cf44bd38f119927.jpg" group-title="Netflix",Necesito romance S01 E11
-https://sv2.filesusc.com/Player.php?d=dd3&video=e613a8be76c30e95c5651aeb27c5e57f&md5=w99mCT7FX6LPcunVMoiIwQ&expires=1631711006
-
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía según Grey S14 E12" tvg-logo="http://tv.lklix.com:8080/images/aa4a0a036800eb10c832d019163c217e.jpg" group-title="Netflix",Anatomía según Grey S14 E12
+http://tv.lklix.com:8080/series/PILAS/PilaS/46626.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía según Grey S14 E13" tvg-logo="http://tv.lklix.com:8080/images/7a7aef5c6df8a4328cac7afc9f0b147a.jpg" group-title="Netflix",Anatomía según Grey S14 E13
+http://tv.lklix.com:8080/series/PILAS/PilaS/46627.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía según Grey S14 E14" tvg-logo="http://tv.lklix.com:8080/images/3094d09810f8610ed834b61be2bce3b3.jpg" group-title="Netflix",Anatomía según Grey S14 E14
+http://tv.lklix.com:8080/series/PILAS/PilaS/46628.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía según Grey S14 E15" tvg-logo="http://tv.lklix.com:8080/images/8f5f5ec246c72ca30e9ec63ae5f28289.jpg" group-title="Netflix",Anatomía según Grey S14 E15
+http://tv.lklix.com:8080/series/PILAS/PilaS/46629.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anatomía según Grey S14 E16" tvg-logo="http://tv.lklix.com:8080/images/e268481c3d0a9bf81a74aaf9b81c4598.jpg" group-title="Netflix",Anatomía según Grey S14 E16
+http://tv.lklix.com:8080/series/PILAS/PilaS/46630.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Etc TV" tvg-logo="" group-title="Chile",Etc TV
+http://tv.lklix.com:8080/PILAS/PilaS/45237
+#EXTINF:-1 tvg-id="" tvg-name="Etc Tv" tvg-logo="" group-title="Chile",Etc Tv
+http://tv.lklix.com:8080/PILAS/PilaS/45238
+#EXTINF:-1 tvg-id="" tvg-name="La Red" tvg-logo="" group-title="Chile",La Red
+http://tv.lklix.com:8080/PILAS/PilaS/45239
+#EXTINF:-1 tvg-id="" tvg-name="La Red HD" tvg-logo="" group-title="Chile",La Red HD
+http://tv.lklix.com:8080/PILAS/PilaS/45240
+#EXTINF:-1 tvg-id="" tvg-name="Mega" tvg-logo="" group-title="Chile",Mega
+http://tv.lklix.com:8080/PILAS/PilaS/45241
+#EXTINF:-1 tvg-id="" tvg-name="Mega FHD" tvg-logo="" group-title="Chile",Mega FHD
+http://tv.lklix.com:8080/PILAS/PilaS/45242
