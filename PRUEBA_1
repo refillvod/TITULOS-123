@@ -26,3 +26,274 @@ http://tv.lklix.com:8080/PILAS/PilaS/45007
 http://tv.lklix.com:8080/PILAS/PilaS/45008
 #EXTINF:-1 tvg-id="" tvg-name="Star Action FHD" tvg-logo="http://tv.lklix.com:8080/images/f698c1657000486f2b375e59d7caa8f5.png" group-title="Cine",Star Action FHD
 http://tv.lklix.com:8080/PILAS/PilaS/45009
+
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports" tvg-logo="http://tv.lklix.com:8080/images/aa7462ab0f9ddff959ace4d311542223.png" group-title="Deportes Latinos",Adrenalina Sports
+http://tv.lklix.com:8080/PILAS/PilaS/44571
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports FHD" tvg-logo="http://tv.lklix.com:8080/images/aa7462ab0f9ddff959ace4d311542223.png" group-title="Deportes Latinos",Adrenalina Sports FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44572
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sports HQ" tvg-logo="http://tv.lklix.com:8080/images/aa7462ab0f9ddff959ace4d311542223.png" group-title="Deportes Latinos",Adrenalina Sports HQ
+http://tv.lklix.com:8080/PILAS/PilaS/44573
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados" tvg-logo="http://tv.lklix.com:8080/images/afc4349f708ad17d634b310a25da6921.png" group-title="Deportes Latinos",Afizzionados
+http://tv.lklix.com:8080/PILAS/PilaS/44574
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados FHD" tvg-logo="http://tv.lklix.com:8080/images/afc4349f708ad17d634b310a25da6921.png" group-title="Deportes Latinos",Afizzionados FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44575
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD" tvg-logo="http://tv.lklix.com:8080/images/afc4349f708ad17d634b310a25da6921.png" group-title="Deportes Latinos",Afizzionados HD
+http://tv.lklix.com:8080/PILAS/PilaS/44576
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports" tvg-logo="http://tv.lklix.com:8080/images/fb4d63cd6ef71c0b404d8df224e872ae.png" group-title="Deportes Latinos",AyM Sports
+http://tv.lklix.com:8080/PILAS/PilaS/44577
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports FHD" tvg-logo="http://tv.lklix.com:8080/images/fb4d63cd6ef71c0b404d8df224e872ae.png" group-title="Deportes Latinos",AyM Sports FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44578
+#EXTINF:-1 tvg-id="" tvg-name="AyM Sports HQ" tvg-logo="http://tv.lklix.com:8080/images/fb4d63cd6ef71c0b404d8df224e872ae.png" group-title="Deportes Latinos",AyM Sports HQ
+http://tv.lklix.com:8080/PILAS/PilaS/44579
+#EXTINF:-1 tvg-id="" tvg-name="Barca TV | España HQ" tvg-logo="http://tv.lklix.com:8080/images/40f5143a42bf4f1bdf77664a7be4a59e.png" group-title="Deportes Latinos",Barca TV | España HQ
+http://tv.lklix.com:8080/PILAS/PilaS/44580
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports en Español" tvg-logo="http://tv.lklix.com:8080/images/dca5f1a38b79dcaf966bcf9f1fdadc5a.png" group-title="Deportes Latinos",beIN Sports en Español
+http://tv.lklix.com:8080/PILAS/PilaS/44581
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports en Español  HD" tvg-logo="http://tv.lklix.com:8080/images/dca5f1a38b79dcaf966bcf9f1fdadc5a.png" group-title="Deportes Latinos",beIN Sports en Español  HD
+http://tv.lklix.com:8080/PILAS/PilaS/44582
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports en Español FHD" tvg-logo="http://tv.lklix.com:8080/images/dca5f1a38b79dcaf966bcf9f1fdadc5a.png" group-title="Deportes Latinos",beIN Sports en Español FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44583
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="Caza y pesca" tvg-logo="http://tv.lklix.com:8080/images/e07f2d49b7cb77c5dcd0c273d3ac196c.png" group-title="Deportes Latinos",Caza y pesca
+http://tv.lklix.com:8080/PILAS/PilaS/44584
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="Caza y pesca FHD" tvg-logo="http://tv.lklix.com:8080/images/e07f2d49b7cb77c5dcd0c273d3ac196c.png" group-title="Deportes Latinos",Caza y pesca FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44585
+#EXTINF:-1 tvg-id="" tvg-name="CDO Basico" tvg-logo="http://tv.lklix.com:8080/images/e270be3f83015fc46a9fd7f678e0289b.png" group-title="Deportes Latinos",CDO Basico
+http://tv.lklix.com:8080/PILAS/PilaS/44586
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports 2 Latinoamerica FHD" tvg-logo="http://tv.lklix.com:8080/images/76de0a0cbc7128e272b6f898524cc7ba.png" group-title="Deportes Latinos",Claro Sports 2 Latinoamerica FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44587
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Latinoamerica" tvg-logo="http://tv.lklix.com:8080/images/882ea6a9d42bd211a66d7e6947ff30e7.png" group-title="Deportes Latinos",Claro Sports Latinoamerica
+http://tv.lklix.com:8080/PILAS/PilaS/44588
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Latinoamerica HD" tvg-logo="http://tv.lklix.com:8080/images/882ea6a9d42bd211a66d7e6947ff30e7.png" group-title="Deportes Latinos",Claro Sports Latinoamerica HD
+http://tv.lklix.com:8080/PILAS/PilaS/44589
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS" tvg-logo="http://tv.lklix.com:8080/images/05ec9755c60e8df47622f548e4ebc461.png" group-title="Deportes Latinos",DIRECTV SPORTS
+http://tv.lklix.com:8080/PILAS/PilaS/44590
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS +" tvg-logo="http://tv.lklix.com:8080/images/05ec9755c60e8df47622f548e4ebc461.png" group-title="Deportes Latinos",DIRECTV SPORTS +
+http://tv.lklix.com:8080/PILAS/PilaS/44591
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 2" tvg-logo="http://tv.lklix.com:8080/images/05ec9755c60e8df47622f548e4ebc461.png" group-title="Deportes Latinos",DIRECTV SPORTS 2
+http://tv.lklix.com:8080/PILAS/PilaS/44592
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS FHD" tvg-logo="http://tv.lklix.com:8080/images/05ec9755c60e8df47622f548e4ebc461.png" group-title="Deportes Latinos",DIRECTV SPORTS FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44593
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | ARG" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | ARG
+http://tv.lklix.com:8080/PILAS/PilaS/44594
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | ARG HD" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | ARG HD
+http://tv.lklix.com:8080/PILAS/PilaS/44595
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | COL" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | COL
+http://tv.lklix.com:8080/PILAS/PilaS/44596
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | COL FHD" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | COL FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44597
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | COL HD" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | COL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44598
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | MX" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | MX
+http://tv.lklix.com:8080/PILAS/PilaS/44599
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44600
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 | MX HD" tvg-logo="http://tv.lklix.com:8080/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="Deportes Latinos",Espn 2 | MX HD
+http://tv.lklix.com:8080/PILAS/PilaS/44601
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | ARG" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | ARG
+http://tv.lklix.com:8080/PILAS/PilaS/44602
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | ARG FHD" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | ARG FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44603
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | COL" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | COL
+http://tv.lklix.com:8080/PILAS/PilaS/44604
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | COL HD" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | COL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44605
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | MX" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | MX
+http://tv.lklix.com:8080/PILAS/PilaS/44606
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44607
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 | MX HD" tvg-logo="http://tv.lklix.com:8080/images/3e99c57a516c085d9c222e40aebc7129.png" group-title="Deportes Latinos",Espn 3 | MX HD
+http://tv.lklix.com:8080/PILAS/PilaS/44608
+#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn Deportes
+http://tv.lklix.com:8080/PILAS/PilaS/44609
+#EXTINF:-1 tvg-id="" tvg-name="Espn Deportes | HD" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn Deportes | HD
+http://tv.lklix.com:8080/PILAS/PilaS/44610
+#EXTINF:-1 tvg-id="" tvg-name="Espn EXTRA" tvg-logo="http://tv.lklix.com:8080/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Deportes Latinos",Espn EXTRA
+http://tv.lklix.com:8080/PILAS/PilaS/44611
+#EXTINF:-1 tvg-id="" tvg-name="Espn EXTRA FHD" tvg-logo="http://tv.lklix.com:8080/images/820e628618358cf1d72c62802a9e5b25.png" group-title="Deportes Latinos",Espn EXTRA FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44612
+#EXTINF:-1 tvg-id="" tvg-name="Espn Plus | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn Plus | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44613
+#EXTINF:-1 tvg-id="" tvg-name="Espn Plus | MX HQ" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn Plus | MX HQ
+http://tv.lklix.com:8080/PILAS/PilaS/44614
+#EXTINF:-1 tvg-id="" tvg-name="Espn | ARG" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | ARG
+http://tv.lklix.com:8080/PILAS/PilaS/44615
+#EXTINF:-1 tvg-id="" tvg-name="Espn | ARG FHD" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | ARG FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44616
+#EXTINF:-1 tvg-id="" tvg-name="Espn | COL" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | COL
+http://tv.lklix.com:8080/PILAS/PilaS/44617
+#EXTINF:-1 tvg-id="" tvg-name="Espn | COL HD" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | COL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44618
+#EXTINF:-1 tvg-id="" tvg-name="Espn | MX" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | MX
+http://tv.lklix.com:8080/PILAS/PilaS/44619
+#EXTINF:-1 tvg-id="" tvg-name="Espn | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44620
+#EXTINF:-1 tvg-id="" tvg-name="Espn | MX HD" tvg-logo="http://tv.lklix.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="Deportes Latinos",Espn | MX HD
+http://tv.lklix.com:8080/PILAS/PilaS/44621
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="http://tv.lklix.com:8080/images/f6fac2cdd4520f026e26e7a1cac46ae8.png" group-title="Deportes Latinos",Eurosport
+http://tv.lklix.com:8080/PILAS/PilaS/44622
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="http://tv.lklix.com:8080/images/a65c1088f41985addd189d5105484f80.png" group-title="Deportes Latinos",Eurosport 2
+http://tv.lklix.com:8080/PILAS/PilaS/44623
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 FHD" tvg-logo="http://tv.lklix.com:8080/images/a65c1088f41985addd189d5105484f80.png" group-title="Deportes Latinos",Eurosport 2 FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44624
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport FHD" tvg-logo="http://tv.lklix.com:8080/images/f6fac2cdd4520f026e26e7a1cac46ae8.png" group-title="Deportes Latinos",Eurosport FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44625
+#EXTINF:-1 tvg-id="" tvg-name="Eurosports HD" tvg-logo="" group-title="Deportes Latinos",Eurosports HD
+http://tv.lklix.com:8080/PILAS/PilaS/44626
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes | USA" tvg-logo="http://tv.lklix.com:8080/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="Deportes Latinos",FOX Deportes | USA
+http://tv.lklix.com:8080/PILAS/PilaS/44627
+#EXTINF:-1 tvg-id="" tvg-name="FOX Deportes | USA HD" tvg-logo="http://tv.lklix.com:8080/images/0e1bb815eba0746f8685abb3ec5338a3.png" group-title="Deportes Latinos",FOX Deportes | USA HD
+http://tv.lklix.com:8080/PILAS/PilaS/44628
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | ARG" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | ARG
+http://tv.lklix.com:8080/PILAS/PilaS/44629
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | ARG HD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | ARG HD
+http://tv.lklix.com:8080/PILAS/PilaS/44630
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | CL FHD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | CL FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44631
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | CL HD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | CL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44632
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | COL FHD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | COL FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44633
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | COL HD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | COL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44634
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | MX" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | MX
+http://tv.lklix.com:8080/PILAS/PilaS/44635
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44636
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 | MX HD" tvg-logo="http://tv.lklix.com:8080/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="Deportes Latinos",Fox Sports 2 | MX HD
+http://tv.lklix.com:8080/PILAS/PilaS/44637
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | ARG" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | ARG
+http://tv.lklix.com:8080/PILAS/PilaS/44638
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | CL" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | CL
+http://tv.lklix.com:8080/PILAS/PilaS/44639
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | COL FHD" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | COL FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44640
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | COL HD" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | COL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44641
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | MX" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | MX
+http://tv.lklix.com:8080/PILAS/PilaS/44642
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44643
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 | MX HD" tvg-logo="http://tv.lklix.com:8080/images/3eef4bb5d1313e72d7524946dd267452.png" group-title="Deportes Latinos",Fox Sports 3 | MX HD
+http://tv.lklix.com:8080/PILAS/PilaS/44644
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium" tvg-logo="http://tv.lklix.com:8080/images/e2350f28340e96c614f3badc5156fb91.png" group-title="Deportes Latinos",FOX Sports Premium
+http://tv.lklix.com:8080/PILAS/PilaS/44645
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium FHD" tvg-logo="http://tv.lklix.com:8080/images/e2350f28340e96c614f3badc5156fb91.png" group-title="Deportes Latinos",FOX Sports Premium FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44646
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sports Premium HD" tvg-logo="http://tv.lklix.com:8080/images/e2350f28340e96c614f3badc5156fb91.png" group-title="Deportes Latinos",FOX Sports Premium HD
+http://tv.lklix.com:8080/PILAS/PilaS/44647
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | ARG FHD" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | ARG FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44648
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | ARG HD" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | ARG HD
+http://tv.lklix.com:8080/PILAS/PilaS/44649
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | CL" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | CL
+http://tv.lklix.com:8080/PILAS/PilaS/44650
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | CL FHD" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | CL FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44651
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | CL HD" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | CL HD
+http://tv.lklix.com:8080/PILAS/PilaS/44652
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | COL" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | COL
+http://tv.lklix.com:8080/PILAS/PilaS/44653
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | MX" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | MX
+http://tv.lklix.com:8080/PILAS/PilaS/44654
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | MX FHD" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | MX FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44655
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports | MX HQ" tvg-logo="http://tv.lklix.com:8080/images/32f3121bc314ba06628573737f575b3e.png" group-title="Deportes Latinos",Fox Sports | MX HQ
+http://tv.lklix.com:8080/PILAS/PilaS/44656
+#EXTINF:-1 tvg-id="" tvg-name="FUTV CR" tvg-logo="http://tv.lklix.com:8080/images/853872affa0c9da5a270995af6cc5128.png" group-title="Deportes Latinos",FUTV CR
+http://tv.lklix.com:8080/PILAS/PilaS/44657
+#EXTINF:-1 tvg-id="" tvg-name="FUTV CR FHD" tvg-logo="http://tv.lklix.com:8080/images/853872affa0c9da5a270995af6cc5128.png" group-title="Deportes Latinos",FUTV CR FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44658
+#EXTINF:-1 tvg-id="gol.es" tvg-name="Gol TV" tvg-logo="http://tv.lklix.com:8080/images/b9e1d71573405bd4b323bf8b3755b317.png" group-title="Deportes Latinos",Gol TV
+http://tv.lklix.com:8080/PILAS/PilaS/44659
+#EXTINF:-1 tvg-id="" tvg-name="LaLigaTV HD" tvg-logo="http://tv.lklix.com:8080/images/b6526f8f970c3d22d001eb1a87690552.png" group-title="Deportes Latinos",LaLigaTV HD
+http://tv.lklix.com:8080/PILAS/PilaS/44660
+#EXTINF:-1 tvg-id="" tvg-name="Liga de Campeones" tvg-logo="http://tv.lklix.com:8080/images/a5b8f83d31a126777d19bb8af1d127d5.png" group-title="Deportes Latinos",Liga de Campeones
+http://tv.lklix.com:8080/PILAS/PilaS/44661
+#EXTINF:-1 tvg-id="" tvg-name="Liga de Campeones HD" tvg-logo="http://tv.lklix.com:8080/images/a5b8f83d31a126777d19bb8af1d127d5.png" group-title="Deportes Latinos",Liga de Campeones HD
+http://tv.lklix.com:8080/PILAS/PilaS/44662
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD" tvg-logo="http://tv.lklix.com:8080/images/01636327025d60a7be7e8660f953f9bb.png" group-title="Deportes Latinos",MLB Network HD
+http://tv.lklix.com:8080/PILAS/PilaS/44663
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1" tvg-logo="http://tv.lklix.com:8080/images/dcdba562c4ed56442e03955e925ded3e.png" group-title="Deportes Latinos",Movistar F1
+http://tv.lklix.com:8080/PILAS/PilaS/44664
+#EXTINF:-1 tvg-id="" tvg-name="Movistar F1 HD" tvg-logo="http://tv.lklix.com:8080/images/dcdba562c4ed56442e03955e925ded3e.png" group-title="Deportes Latinos",Movistar F1 HD
+http://tv.lklix.com:8080/PILAS/PilaS/44665
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga" tvg-logo="http://tv.lklix.com:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="Deportes Latinos",Movistar La Liga
+http://tv.lklix.com:8080/PILAS/PilaS/44666
+#EXTINF:-1 tvg-id="" tvg-name="Movistar La Liga FHD" tvg-logo="http://tv.lklix.com:8080/images/a34a7db237454cb394432edfa5a8dde8.png" group-title="Deportes Latinos",Movistar La Liga FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44667
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf" tvg-logo="http://tv.lklix.com:8080/images/36fd35c8d1cba1c25299d9bdbdffdfc0.png" group-title="Deportes Latinos",NBC Golf
+http://tv.lklix.com:8080/PILAS/PilaS/44668
+#EXTINF:-1 tvg-id="" tvg-name="PX Sports HD" tvg-logo="http://tv.lklix.com:8080/images/b974b5aab165d223dbd46abbca206442.png" group-title="Deportes Latinos",PX Sports HD
+http://tv.lklix.com:8080/PILAS/PilaS/44669
+#EXTINF:-1 tvg-id="" tvg-name="SKY Sports HD" tvg-logo="http://tv.lklix.com:8080/images/ef059b514282f634bbf16fba36b85772.png" group-title="Deportes Latinos",SKY Sports HD
+http://tv.lklix.com:8080/PILAS/PilaS/44670
+#EXTINF:-1 tvg-id="" tvg-name="Sportv" tvg-logo="http://tv.lklix.com:8080/images/0691e7e2ee25c84b1a2c8e706506f97f.png" group-title="Deportes Latinos",Sportv
+http://tv.lklix.com:8080/PILAS/PilaS/44671
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 2" tvg-logo="http://tv.lklix.com:8080/images/f513f723ba479a84e97bb1f322b2fd43.png" group-title="Deportes Latinos",Sportv 2
+http://tv.lklix.com:8080/PILAS/PilaS/44672
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 2 HD" tvg-logo="http://tv.lklix.com:8080/images/f513f723ba479a84e97bb1f322b2fd43.png" group-title="Deportes Latinos",Sportv 2 HD
+http://tv.lklix.com:8080/PILAS/PilaS/44673
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 3" tvg-logo="http://tv.lklix.com:8080/images/e33f6c3d8c6016fd756924ca1585286d.png" group-title="Deportes Latinos",Sportv 3
+http://tv.lklix.com:8080/PILAS/PilaS/44674
+#EXTINF:-1 tvg-id="" tvg-name="Sportv 3 HD" tvg-logo="http://tv.lklix.com:8080/images/e33f6c3d8c6016fd756924ca1585286d.png" group-title="Deportes Latinos",Sportv 3 HD
+http://tv.lklix.com:8080/PILAS/PilaS/44675
+#EXTINF:-1 tvg-id="" tvg-name="Sportv HD" tvg-logo="https://www.bestswim.com.br/wp-content/uploads/2018/06/93b93c34bd95b28979fa77a2c983.png" group-title="Deportes Latinos",Sportv HD
+http://tv.lklix.com:8080/PILAS/PilaS/44676
+#EXTINF:-1 tvg-id="" tvg-name="Teledeporte" tvg-logo="http://tv.lklix.com:8080/images/c08b2d93426270dd97326237e12bfbcd.png" group-title="Deportes Latinos",Teledeporte
+http://tv.lklix.com:8080/PILAS/PilaS/44677
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Honduras (solo eventos)" tvg-logo="http://tv.lklix.com:8080/images/87013d025dc55978a525c80e70b79d98.png" group-title="Deportes Latinos",Tigo Honduras (solo eventos)
+http://tv.lklix.com:8080/PILAS/PilaS/44678
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 BO" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports 2 BO
+http://tv.lklix.com:8080/PILAS/PilaS/44679
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 2 BO HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports 2 BO HD
+http://tv.lklix.com:8080/PILAS/PilaS/44680
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 BO" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports 3 BO
+http://tv.lklix.com:8080/PILAS/PilaS/44681
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3 BO HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports 3 BO HD
+http://tv.lklix.com:8080/PILAS/PilaS/44682
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports BO" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports BO
+http://tv.lklix.com:8080/PILAS/PilaS/44683
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports BO HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports BO HD
+http://tv.lklix.com:8080/PILAS/PilaS/44684
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports CR" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports CR
+http://tv.lklix.com:8080/PILAS/PilaS/44685
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports HN HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports HN HD
+http://tv.lklix.com:8080/PILAS/PilaS/44686
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Paraguay HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports Paraguay HD
+http://tv.lklix.com:8080/PILAS/PilaS/44687
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Plus Paraguay HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports Plus Paraguay HD
+http://tv.lklix.com:8080/PILAS/PilaS/44688
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Salvador" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports Salvador
+http://tv.lklix.com:8080/PILAS/PilaS/44689
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports Salvador HD" tvg-logo="http://tv.lklix.com:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="Deportes Latinos",Tigo Sports Salvador HD
+http://tv.lklix.com:8080/PILAS/PilaS/44690
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports" tvg-logo="http://tv.lklix.com:8080/images/5f946b9db19a5264d2468e1c0b298f17.png" group-title="Deportes Latinos",TNT Sports
+http://tv.lklix.com:8080/PILAS/PilaS/44691
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports FHD" tvg-logo="http://tv.lklix.com:8080/images/5f946b9db19a5264d2468e1c0b298f17.png" group-title="Deportes Latinos",TNT Sports FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44692
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="http://tv.lklix.com:8080/images/5f946b9db19a5264d2468e1c0b298f17.png" group-title="Deportes Latinos",TNT Sports HD
+http://tv.lklix.com:8080/PILAS/PilaS/44693
+#EXTINF:-1 tvg-id="toros.es" tvg-name="Toros" tvg-logo="http://tv.lklix.com:8080/images/41c0e13df34ca0b18549b881e90ef69d.png" group-title="Deportes Latinos",Toros
+http://tv.lklix.com:8080/PILAS/PilaS/44694
+#EXTINF:-1 tvg-id="" tvg-name="Toros FHD" tvg-logo="http://tv.lklix.com:8080/images/41c0e13df34ca0b18549b881e90ef69d.png" group-title="Deportes Latinos",Toros FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44695
+#EXTINF:-1 tvg-id="toros.es" tvg-name="Toros HD" tvg-logo="http://tv.lklix.com:8080/images/41c0e13df34ca0b18549b881e90ef69d.png" group-title="Deportes Latinos",Toros HD
+http://tv.lklix.com:8080/PILAS/PilaS/44696
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="http://tv.lklix.com:8080/images/04c248b99d4e9c535c09cd57332c46c2.png" group-title="Deportes Latinos",TUDN
+http://tv.lklix.com:8080/PILAS/PilaS/44697
+#EXTINF:-1 tvg-id="" tvg-name="TUDN FHD" tvg-logo="http://tv.lklix.com:8080/images/04c248b99d4e9c535c09cd57332c46c2.png" group-title="Deportes Latinos",TUDN FHD
+http://tv.lklix.com:8080/PILAS/PilaS/44698
+#EXTINF:-1 tvg-id="" tvg-name="TUDN US" tvg-logo="http://tv.lklix.com:8080/images/04c248b99d4e9c535c09cd57332c46c2.png" group-title="Deportes Latinos",TUDN US
+http://tv.lklix.com:8080/PILAS/PilaS/44699
+#EXTINF:-1 tvg-id="" tvg-name="TUDN US HD" tvg-logo="http://tv.lklix.com:8080/images/04c248b99d4e9c535c09cd57332c46c2.png" group-title="Deportes Latinos",TUDN US HD
+http://tv.lklix.com:8080/PILAS/PilaS/44700
+#EXTINF:-1 tvg-id="" tvg-name="TVC Deportes" tvg-logo="http://tv.lklix.com:8080/images/0d470868d1557ca733ac2265bb25a21b.png" group-title="Deportes Latinos",TVC Deportes
+http://tv.lklix.com:8080/PILAS/PilaS/44701
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="http://tv.lklix.com:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="Deportes Latinos",TYC Sports
+http://tv.lklix.com:8080/PILAS/PilaS/44702
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports HD" tvg-logo="http://tv.lklix.com:8080/images/156b98d348155f4eb3f8cbf844a4a053.png" group-title="Deportes Latinos",TYC Sports HD
+http://tv.lklix.com:8080/PILAS/PilaS/44703
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports Internacional" tvg-logo="http://tv.lklix.com:8080/images/fef9dce779470f2dc9b694333ace8609.png" group-title="Deportes Latinos",TyC Sports Internacional
+http://tv.lklix.com:8080/PILAS/PilaS/44704
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports Internacional HD" tvg-logo="http://tv.lklix.com:8080/images/fef9dce779470f2dc9b694333ace8609.png" group-title="Deportes Latinos",TyC Sports Internacional HD
+http://tv.lklix.com:8080/PILAS/PilaS/44705
