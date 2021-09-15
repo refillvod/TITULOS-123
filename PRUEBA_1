@@ -16,3 +16,5 @@ http://tv.lklix.com:8080/PILAS/PilaS/45923
 http://tv.lklix.com:8080/PILAS/PilaS/45924
 #EXTINF:-1 tvg-id="" tvg-name="HBO Comedy" tvg-logo="http://tv.lklix.com:8080/images/7b83bbe569e2fce55511d0caa38cbe7f.png" group-title="EEUU",HBO Comedy
 http://tv.lklix.com:8080/PILAS/PilaS/45925
+#EXTINF:-1 tvg-id="" tvg-name="Space | MX" tvg-logo="http://tv.lklix.com:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Cine",Space | MX
+http://tv.lklix.com:8080/PILAS/PilaS/45005
