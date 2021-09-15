@@ -22,3 +22,9 @@ http://tv.lklix.com:8080/PILAS/PilaS/45240
 http://tv.lklix.com:8080/PILAS/PilaS/45241
 #EXTINF:-1 tvg-id="" tvg-name="Mega FHD" tvg-logo="" group-title="Chile",Mega FHD
 http://tv.lklix.com:8080/PILAS/PilaS/45242
+#EXTINF:-1 tvg-id="" tvg-name="MEGA HD" tvg-logo="" group-title="Chile",MEGA HD
+http://tv.lklix.com:8080/PILAS/PilaS/45243
+#EXTINF:-1 tvg-id="" tvg-name="Mega Plus" tvg-logo="http://tv.lklix.com:8080/images/bf3ed3900e72ea85a4282642e4c2856a.png" group-title="Chile",Mega Plus
+http://tv.lklix.com:8080/PILAS/PilaS/45244
+#EXTINF:-1 tvg-id="" tvg-name="Rec TV" tvg-logo="" group-title="Chile",Rec TV
+http://tv.lklix.com:8080/PILAS/PilaS/45245
