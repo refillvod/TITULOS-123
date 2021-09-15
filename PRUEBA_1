@@ -18,3 +18,11 @@ http://tv.lklix.com:8080/PILAS/PilaS/45924
 http://tv.lklix.com:8080/PILAS/PilaS/45925
 #EXTINF:-1 tvg-id="" tvg-name="Space | MX" tvg-logo="http://tv.lklix.com:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Cine",Space | MX
 http://tv.lklix.com:8080/PILAS/PilaS/45005
+#EXTINF:-1 tvg-id="" tvg-name="Space | MX | FHD" tvg-logo="http://tv.lklix.com:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Cine",Space | MX | FHD
+http://tv.lklix.com:8080/PILAS/PilaS/45006
+#EXTINF:-1 tvg-id="" tvg-name="Space | MX | HD" tvg-logo="http://tv.lklix.com:8080/images/ff2364a0be3d20e46cc69efb36afe9a5.png" group-title="Cine",Space | MX | HD
+http://tv.lklix.com:8080/PILAS/PilaS/45007
+#EXTINF:-1 tvg-id="" tvg-name="Star Action" tvg-logo="http://tv.lklix.com:8080/images/f698c1657000486f2b375e59d7caa8f5.png" group-title="Cine",Star Action
+http://tv.lklix.com:8080/PILAS/PilaS/45008
+#EXTINF:-1 tvg-id="" tvg-name="Star Action FHD" tvg-logo="http://tv.lklix.com:8080/images/f698c1657000486f2b375e59d7caa8f5.png" group-title="Cine",Star Action FHD
+http://tv.lklix.com:8080/PILAS/PilaS/45009
