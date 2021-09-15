@@ -1,13 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BILLIONS" tvg-logo="http://tv.lklix.com:8080/images/1eaa8bb195869a23f081acbb5bf08527.png" group-title="SERIES",BILLIONS
-https://sv2.filesusc.com/Player.php?d=dd3&video=e613a8be76c30e95c5651aeb27c5e57f&md5=w99mCT7FX6LPcunVMoiIwQ&expires=1631711006
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://unsoloclic.info/wp-content/uploads/2020/05/MV5BNjJkNzdkNjItNmVmZi00MzkzLTg0MTUtZjYzZDhmNzNlMTY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006661000_AL_1-e1588974133459.jpg" group-title="SERIES",SERIES 2020
 http://tv.lklix.com:8080/PILAS/PilaS/44726
 
 #EXTINF:-1 tvg-id="" tvg-name="Necesito romance S01 E11" tvg-logo="http://tv.lklix.com:8080/images/9acb716d9a4db8714cf44bd38f119927.jpg" group-title="Netflix",Necesito romance S01 E11
-http://tv.lklix.com:8080/series/PILAS/PilaS/46701.mkv
+https://sv2.filesusc.com/Player.php?d=dd3&video=e613a8be76c30e95c5651aeb27c5e57f&md5=w99mCT7FX6LPcunVMoiIwQ&expires=1631711006
 
-#EXTINF:-1 tvg-id="" tvg-name="BILLIONS" tvg-logo="https://unsoloclic.info/wp-content/uploads/2020/05/MV5BNjJkNzdkNjItNmVmZi00MzkzLTg0MTUtZjYzZDhmNzNlMTY4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SY1000_CR006661000_AL_1-e1588974133459.jpg" group-title="Netflix",Necesito romance S01 E11
-http://tv.lklix.com:8080/series/PILAS/PilaS/46701.mkv
